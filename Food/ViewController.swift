@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("this is a warning!")
+        print("this is a warning! Try")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
